@@ -46,7 +46,7 @@ Engine.run(engine)
 
 
 polygon1 = new Polygon()
-sling = new SlingShot(polygon1.body,{x:100,y:400})
+sling = new SlingShot(polygon1.body,{x:100,y:300})
 gr1 = new Base (500,700,10000,10)
 gr2 = new Base(700,500,400,20)
 gr3 = new Base(1300,300,250,20)
